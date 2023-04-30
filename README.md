@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kushwahasujeet222@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bgimtDBc8Pa_1mPFC2h81ZK3CXvmbhNY/view?usp=share_link](https://drive.google.com/file/d/1bgimtDBc8Pa_1mPFC2h81ZK3CXvmbhNY/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12txcWyEBAM-J1a07fGU060coMi03x-IA/view?usp=sharing](https://drive.google.com/file/d/12txcWyEBAM-J1a07fGU060coMi03x-IA/view?usp=sharing)
 
 - ⚡ Fun fact **Coding**
 

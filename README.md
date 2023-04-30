@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sujeet597/Sujeet597/blob/main/PHP%20Software%20Development.png)
 <h1 align="center">Hi 👋, I'm Sujeet Kushwaha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate php developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://github.com/Sujeet597/Sujeet597/blob/main/profile.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeet597&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet597" /> </p>

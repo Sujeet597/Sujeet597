@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java,Python,Php**
 
-- 📫 How to reach me **kushwahasujeet222@gmail.com**
+- 📫 How to reach me **sujeet.mitmeerut@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1l_dAf-FQst61Q-ck6XN8l-vPiQvxYOvY/view?usp=sharing
 

@@ -1,4 +1,4 @@
-![logo](https://github.com/Sujeet597/Sujeet597/blob/main/PHP%20Software%20Development.png)
+
 <h1 align="center">Hi 👋, I'm Sujeet Kushwaha</h1>
 <h3 align="center">A passionate php developer from India</h3>
 <p align="center"> I am well-versed in HTML, PHP, Java, SQL, and CSS. With a keen eye for design and a passion for coding, I bring a unique perspective to every project I work on. Whether it's building a new website from scratch or maintaining an existing one, I am dedicated to delivering high-quality results that exceed my clients' expectations.</p>

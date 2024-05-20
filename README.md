@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/m__sujeet" target="blank"><img src="https://img.shields.io/twitter/follow/m__sujeet?logo=twitter&style=for-the-badge" alt="m__sujeet" /></a> </p>
 
-- 🤝 I’m looking for help with [My portfolio](https://sujeet597.github.io/my-portfolio/)
+- 🤝 I’m looking for help with [My portfolio](https://sujeet-portfolio.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sujeet597](https://github.com/Sujeet597)
 

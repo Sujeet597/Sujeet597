@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sujeet Kushwaha</h1>
-<h3 align="center">A passionate Node js developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 <p align="center"> I am well-versed in HTML, PHP, Javascript, mongoDB, SQL, CSS, Tailwind CSS . With a keen eye for design and a passion for coding, I bring a unique perspective to every project I work on. Whether it's building a new website from scratch or maintaining an existing one, I am dedicated to delivering high-quality results that exceed my clients' expectations.</p>
 <img align="right" width="400" alt="coding" src="https://github.com/Sujeet597/Sujeet597/blob/main/profile.gif"/>
 

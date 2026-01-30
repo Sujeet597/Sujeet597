@@ -81,4 +81,4 @@ Currently, I’m expanding my expertise into **Artificial Intelligence**, **Mach
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeet597&show_icons=true&locale=en" alt="sujeet597" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sujeet&theme=dark" alt="GitHub Streak" />
+<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Sujeet&theme=dark" alt="GitHub Streak" /></p>

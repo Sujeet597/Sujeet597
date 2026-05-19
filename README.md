@@ -19,11 +19,9 @@ Currently, I’m expanding my expertise into **Artificial Intelligence**, **Mach
 
 - 🔭 I’m currently working on **AI-powered Django projects**
 - 🌱 I’m learning **Machine Learning**, **LangChain**, and **Generative AI**
-- 🤝 I’m looking for help with [My Portfolio](https://sujeet-portfolio.vercel.app/)
 - 👨‍💻 Check out my work at [GitHub – Sujeet597](https://github.com/Sujeet597)
 - 💬 Ask me about **Django, Python, PHP, JavaScript, and AI integration**
 - 📫 Reach me at **sujeet.mitmeerut@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1gyCyheqrMwCnC9F7GlVcORKTS3HV--A5/view?usp=sharing)
 - ⚡ Fun fact: **I turn ideas into automated AI solutions 🤖**
 
 ---

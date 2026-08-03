@@ -1,98 +1,45 @@
 <h1 align="center">Hi 👋, I'm Sujeet Kushwaha</h1>
+
 <h3 align="center">Python Backend & Generative AI Developer from India 🇮🇳</h3>
 
 <p align="center">
-I build AI-powered applications using <b>Python</b>, <b>Django</b>, <b>Large Language Models (LLMs)</b>, and <b>Retrieval-Augmented Generation (RAG)</b>.
-
-My focus is designing scalable backend systems, AI agents, chatbot platforms, vector search pipelines, and intelligent automation that solve real business problems.
+I build scalable backend applications and AI-powered solutions using
+<strong>Python</strong>, <strong>Django</strong>, <strong>LLMs</strong>,
+<strong>RAG</strong>, <strong>Vector Databases</strong>, and
+<strong>Generative AI</strong>.
 </p>
 
-<img align="right" width="380" src="https://github.com/Sujeet597/Sujeet597/blob/main/profile.gif"/>
+<img align="right" alt="Coding" width="400" src="./profile.gif">
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Sujeet597&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Building AI-powered SaaS products with Django
-- 🤖 Developing LLM applications using OpenAI APIs
-- 📚 Working with RAG pipelines & Vector Databases
-- ⚡ Building AI Agents & Workflow Automation
-- 🌱 Currently exploring Multi-Agent Systems & MCP
-- 💬 Ask me about Python, Django, FastAPI, GenAI, APIs & Backend Architecture
-
----
-
-## 💡 Current Interests
-
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- LangChain
-- LlamaIndex
-- Prompt Engineering
-- Vector Databases
-- Backend Architecture
-- REST APIs
-- Automation
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,php,sql"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs"/>
-</p>
-
-### AI / GenAI
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-**LLM Stack**
-
-- OpenAI API
-- LangChain
-- LlamaIndex
-- ChromaDB
-- FAISS
-- Pinecone
-- RAG
-- Prompt Engineering
-- AI Agents
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode"/>
-</p>
+- 🔭 Currently building **AI-powered Django applications**
+- 🤖 Developing **LLM & RAG applications**
+- 📚 Exploring **AI Agents**, **MCP**, and **Automation**
+- 💡 Interested in Backend Architecture & Scalable APIs
+- 💬 Ask me about **Python, Django, REST APIs, GenAI, LangChain & Vector Databases**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/sujeetkushwaha">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p align="left">
+<a href="https://linkedin.com/in/sujeetkushwaha" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/Sujeet597">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Sujeet597" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://twitter.com/m__sujeet" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 <a href="mailto:sujeet.mitmeerut@gmail.com">
@@ -102,7 +49,52 @@ My focus is designing scalable backend systems, AI agents, chatbot platforms, ve
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,php,javascript" />
+</p>
+
+---
+
+## 🤖 AI & Generative AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Technologies
+
+- OpenAI API
+- LangChain
+- LlamaIndex
+- RAG
+- ChromaDB
+- FAISS
+- Pinecone
+- Vector Databases
+- Prompt Engineering
+- AI Agents
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+---
+
+## ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
 
@@ -118,24 +110,34 @@ My focus is designing scalable backend systems, AI agents, chatbot platforms, ve
 
 ---
 
-## 🎯 What I'm Building
+## 🚀 Featured Skills
 
-✅ AI Chatbots
-
-✅ LLM Applications
-
-✅ RAG Systems
-
-✅ AI Agents
-
-✅ Django SaaS Platforms
-
-✅ REST APIs
-
-✅ Backend Systems
-
-✅ Intelligent Automation
+- ✅ Python
+- ✅ Django
+- ✅ REST API Development
+- ✅ OpenAI API
+- ✅ LLM Applications
+- ✅ Retrieval-Augmented Generation (RAG)
+- ✅ ChromaDB
+- ✅ Vector Search
+- ✅ AI Chatbots
+- ✅ AI Agents
+- ✅ Backend Architecture
+- ✅ Automation
 
 ---
 
-> *"Building intelligent software with Python, AI, and scalable backend systems."*
+## 📌 Currently Working On
+
+- 🤖 AI SaaS Platform
+- 💬 LLM Chatbots
+- 📄 RAG Document Search
+- 🔍 Vector Search Systems
+- ⚡ AI Workflow Automation
+- 🌐 Django Backend APIs
+
+---
+
+<p align="center">
+<i>"Building intelligent software with Python, AI, and scalable backend systems."</i>
+</p>

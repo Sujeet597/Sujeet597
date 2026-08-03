@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sujeet Kushwaha</h1>
 
-<h3 align="center">Python Backend & Generative AI Developer from India 🇮🇳</h3>
+<h3 align="center">
+Python Backend • Generative AI • LLM • RAG • AI Agents
+</h3>
 
 <p align="center">
-I build scalable backend applications and AI-powered solutions using
-<strong>Python</strong>, <strong>Django</strong>, <strong>LLMs</strong>,
-<strong>RAG</strong>, <strong>Vector Databases</strong>, and
-<strong>Generative AI</strong>.
+Building intelligent backend systems with Python, Django, LLMs, Vector Databases, and AI Automation.
 </p>
 
-<img align="right" alt="Coding" width="400" src="./profile.gif">
+<p align="center">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Sujeet597&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;Generative+AI+Engineer;LLM+%7C+RAG+Developer;AI+Agent+Builder;OpenAI+%7C+LangChain+%7C+Vector+DB"/>
+
 </p>
 
 ---

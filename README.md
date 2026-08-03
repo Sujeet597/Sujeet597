@@ -1,82 +1,141 @@
 <h1 align="center">Hi 👋, I'm Sujeet Kushwaha</h1>
-<h3 align="center">A Passionate Backend Developer & AI Enthusiast from India 🇮🇳</h3>
+<h3 align="center">Python Backend & Generative AI Developer from India 🇮🇳</h3>
 
 <p align="center">
-I’m a backend-focused developer skilled in building scalable and intelligent web applications using **Python (Django)** and **AI-powered solutions**.  
-With strong experience in **PHP, JavaScript, and databases (MySQL, MongoDB)**, I craft efficient APIs and backend systems that seamlessly integrate with modern frontends.  
-Currently, I’m expanding my expertise into **Artificial Intelligence**, **Machine Learning**, and **automation tools** to build smarter applications.
+I build AI-powered applications using <b>Python</b>, <b>Django</b>, <b>Large Language Models (LLMs)</b>, and <b>Retrieval-Augmented Generation (RAG)</b>.
+
+My focus is designing scalable backend systems, AI agents, chatbot platforms, vector search pipelines, and intelligent automation that solve real business problems.
 </p>
 
-<img align="right" width="400" alt="coding" src="https://github.com/Sujeet597/Sujeet597/blob/main/profile.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeet597&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet597" /> </p>
-
-<p align="left"> 
-  <a href="https://twitter.com/m__sujeet" target="blank">
-    <img src="https://img.shields.io/twitter/follow/m__sujeet?logo=twitter&style=for-the-badge" alt="m__sujeet" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working on **AI-powered Django projects**
-- 🌱 I’m learning **Machine Learning**, **LangChain**, and **Generative AI**
-- 👨‍💻 Check out my work at [GitHub – Sujeet597](https://github.com/Sujeet597)
-- 💬 Ask me about **Django, Python, PHP, JavaScript, and AI integration**
-- 📫 Reach me at **sujeet.mitmeerut@gmail.com**
-- ⚡ Fun fact: **I turn ideas into automated AI solutions 🤖**
+<img align="right" width="380" src="https://github.com/Sujeet597/Sujeet597/blob/main/profile.gif"/>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sujeetkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sujeetkushwaha" height="30" width="40" /></a>
-<a href="https://twitter.com/m__sujeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m__sujeet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sujeetkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetkushwaha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/m_sujeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_sujeet" height="30" width="40" /></a>
+## 🚀 About Me
+
+- 🔭 Building AI-powered SaaS products with Django
+- 🤖 Developing LLM applications using OpenAI APIs
+- 📚 Working with RAG pipelines & Vector Databases
+- ⚡ Building AI Agents & Workflow Automation
+- 🌱 Currently exploring Multi-Agent Systems & MCP
+- 💬 Ask me about Python, Django, FastAPI, GenAI, APIs & Backend Architecture
+
+---
+
+## 💡 Current Interests
+
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- LangChain
+- LlamaIndex
+- Prompt Engineering
+- Vector Databases
+- Backend Architecture
+- REST APIs
+- Automation
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,php,sql"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs"/>
+</p>
+
+### AI / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+**LLM Stack**
+
+- OpenAI API
+- LangChain
+- LlamaIndex
+- ChromaDB
+- FAISS
+- Pinecone
+- RAG
+- Prompt Engineering
+- AI Agents
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode"/>
 </p>
 
 ---
 
-<h3 align="left">🧠 Languages & Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
+## 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/sujeetkushwaha">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Sujeet597">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:sujeet.mitmeerut@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeet597&show_icons=true&locale=en&layout=compact" alt="sujeet597" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeet597&show_icons=true&locale=en" alt="sujeet597" /></p>
+<p align="center">
 
-<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Sujeet&theme=dark" alt="GitHub Streak" /></p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sujeet597&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeet597&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sujeet597&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 What I'm Building
+
+✅ AI Chatbots
+
+✅ LLM Applications
+
+✅ RAG Systems
+
+✅ AI Agents
+
+✅ Django SaaS Platforms
+
+✅ REST APIs
+
+✅ Backend Systems
+
+✅ Intelligent Automation
+
+---
+
+> *"Building intelligent software with Python, AI, and scalable backend systems."*

@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujeet597&label=Profile%20Views&color=24c6dc&style=flat-square" />
+  <img src="https://hits.sh/github.com/Sujeet597.svg?style=flat-square&label=Profile%20Views&color=24c6dc&labelColor=302b63" />
   <img src="https://img.shields.io/github/followers/Sujeet597?label=Followers&style=flat-square&color=302b63&logo=github" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square&logo=handshake" />
 </p>
